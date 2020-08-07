@@ -167,6 +167,11 @@ body {
   .header .main-nav {
     margin-bottom: 20px;
   }
+  .item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   .rocket {
     max-width: 180px;
   }
